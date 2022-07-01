@@ -1,3 +1,4 @@
+// Program used for fading of light bulb
 int pwmPin = 12;
 
 
